@@ -7,3 +7,4 @@ riderModule.iml
 
 Migrations/
 .idea/
+BugTracker.db
